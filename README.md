@@ -1,3 +1,3 @@
 # RedditorShaadi
-redditorshaadi.netlify.app/
+https://redditorshaadi.netlify.app/
 April Fool's Stuff
